@@ -34,7 +34,7 @@
     </head>
     <body>
         <div class="content">
-            <div>HELLO</div>
+            <div>HELLO...</div>
             <div class="icons" aria-label="Font Awesome icons test">
                 <i class="fa-solid fa-user"></i>
             </div>
