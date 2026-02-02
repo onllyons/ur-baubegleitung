@@ -18,7 +18,7 @@
         <div class="mx-auto mt-4 max-w-6xl px-6">
             <div class="relative">
                 <img
-                    src="{{ asset('images/buro.jpg') }}"
+                    src="{{ asset('images/buro.png') }}"
                     alt="Buero"
                     class="h-[420px] w-full rounded-2xl object-cover sm:h-[520px] lg:h-[640px]"
                     loading="lazy"
