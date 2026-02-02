@@ -13,12 +13,26 @@
     </section>
 
     <section class="bg-white">
-        <img
-            src="{{ asset('images/buro.jpg') }}"
-            alt="Buero"
-            class="h-[420px] w-full object-cover sm:h-[520px] lg:h-[640px]"
-            loading="lazy"
-        >
+        <br>
+        <br>
+        <div class="mx-auto mt-4 max-w-6xl px-6">
+            <div class="relative">
+                <img
+                    src="{{ asset('images/buro.jpg') }}"
+                    alt="Buero"
+                    class="h-[420px] w-full rounded-2xl object-cover sm:h-[520px] lg:h-[640px]"
+                    loading="lazy"
+                >
+                <a href="https://www.desag.de/zertifikat/uwereemtsema/" target="_blank" rel="noopener noreferrer" class="absolute -bottom-6 right-0">
+                    <img
+                        src="{{ asset('images/icons/desag.png') }}"
+                        alt="DESAG"
+                        class="h-20 w-auto rounded-md bg-white/90 p-2 shadow-lg transition hover:shadow-xl sm:h-24 lg:h-28"
+                        loading="lazy"
+                    >
+                </a>
+            </div>
+        </div>
     </section>
 
     <section class="bg-white">
@@ -26,8 +40,8 @@
             <div class="grid gap-10 lg:grid-cols-[1.05fr,1.45fr] lg:items-start">
                 <div class="space-y-6">
                     <div>
-                        <h2 class="text-2xl font-semibold text-slate-900">Matthias Kaehl</h2>
-                        <p class="mt-1 text-sm font-medium text-slate-600">Dipl. Ing (FH) Architektur | M.B.A.</p>
+                        <h2 class="text-2xl font-semibold text-slate-900">Uwe Reemtsema</h2>
+                        <p class="mt-1 text-sm font-medium text-slate-600">Handwerksmeister nach Paragraph 8 HWO</p>
                     </div>
                     <ul class="space-y-3 text-sm text-slate-700">
                         <li class="flex items-start gap-3">
@@ -36,15 +50,19 @@
                         </li>
                         <li class="flex items-start gap-3">
                             <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
-                            Fachberater f&uuml;r Wasserschadensanierung
-                        </li>
-                        <li class="flex items-start gap-3">
-                            <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
                             Immobilienbewerter nach Bewertungsgesetz
                         </li>
                         <li class="flex items-start gap-3">
                             <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
-                            Dozent f&uuml;r Bausachverst&auml;ndige und Immobilienwertermittler
+                            Gepr&uuml;fter Sachverst&auml;ndiger f&uuml;r Sch&auml;den an Geb&auml;uden
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                            Gutachter f&uuml;r Wertermittlung
+                        </li>
+                        <li class="flex items-start gap-3">
+                            <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                            DESAG Zertifiziert und gepr&uuml;ft
                         </li>
                     </ul>
                     <div class="rounded-2xl border border-slate-200 bg-slate-50 p-6 shadow-sm">
@@ -56,7 +74,7 @@
                 </div>
                 <div class="space-y-6 text-sm leading-relaxed text-slate-700 sm:text-base">
                     <p>
-                        Aufgrund meiner langj&auml;hrigen Praxiserfahrung als Bau- und Projektleiter in der Berliner Baubranche
+                        Aufgrund meiner langj&auml;hrigen Praxiserfahrung als Bau- und Projektleiter in der Regionalen Baubranche
                         sowie meiner Zertifizierung als Sachverst&auml;ndiger f&uuml;r Sch&auml;den an Geb&auml;uden und
                         Immobilienbewerter erstelle ich f&uuml;r Sie fachlich fundierte Gutachten und Expertenberichte.
                         Diese decken m&ouml;gliche Geb&auml;udem&auml;ngel sowie Sch&auml;den an Wohnh&auml;usern,

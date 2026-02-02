@@ -71,7 +71,7 @@
                             einzuplanen sind.
                         </p>
                         <p>
-                            Gerade beim Immobilienkauf oder -verkauf in Berlin gilt: Es gibt nach der Vertragsunterzeichnung kein
+                            Gerade beim Immobilienkauf oder -verkauf gilt: Es gibt nach der Vertragsunterzeichnung kein
                             R&uuml;cktrittsrecht und keine Gew&auml;hrleistung. F&uuml;r Laien ist es oft kaum m&ouml;glich, Baum&auml;ngel
                             oder versteckte Sch&auml;den zuverl&auml;ssig zu erkennen. Ein unabh&auml;ngiger Sachverst&auml;ndiger
                             bietet Ihnen die notwendige Sicherheit und bewahrt Sie vor teuren Fehlentscheidungen.

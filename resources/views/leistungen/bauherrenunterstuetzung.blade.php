@@ -29,7 +29,7 @@
                         <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">Bauherrenvertretung</p>
                         <h2 class="mt-3 text-xl font-semibold text-slate-900">Bauherrenvertretung / Bauherrenunterst&uuml;tzung</h2>
                         <p class="mt-4 text-sm leading-relaxed text-slate-700">
-                            Als Bauherrenvertreter im Berliner Raum fungiere ich als unabh&auml;ngiges und vorausschauendes
+                            Als Bauherrenvertreter im Norddeutschen Raum Raum fungiere ich als unabh&auml;ngiges und vorausschauendes
                             Bindeglied zwischen Bauherrschaft und Projektbeteiligten.
                         </p>
                     </div>

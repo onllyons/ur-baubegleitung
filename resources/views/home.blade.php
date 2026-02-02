@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Ingenieurbuero UR Baubegleitung | Gepruefter Bausachverstaendiger')
+@section('title', 'UR Baubegleitung | Gepruefter Bausachverstaendiger')
 @section('meta_description', 'Unabhaengige Baubegleitung, Gutachten und technische Expertise fuer Bauherren, Eigentuemern und Investoren in Deutschland.')
 
 @section('content')
@@ -114,7 +114,7 @@
                 <div class="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-slate-200">
                     <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">Profil</p>
                     <h2 class="mt-3 text-2xl font-semibold text-slate-900">Dipl.-Ing. Martin Schaefer</h2>
-                    <p class="mt-2 text-sm text-slate-600">Inhaber und verantwortlicher Sachverst&auml;ndiger</p>
+                    <p class="mt-2 text-sm text-slate-600">Baubegleitung</p>
                     <ul class="mt-6 space-y-3 text-sm text-slate-700">
                         <li class="flex items-start gap-3">
                             <span class="mt-1 h-2 w-2 rounded-full bg-slate-400"></span>
@@ -251,7 +251,7 @@
                         <a href="mailto:info@ur-baubegleitung.de" class="inline-flex items-center rounded-full bg-white px-6 py-3 text-sm font-semibold text-[#5d7f95] shadow-sm transition hover:bg-slate-100">
                             Anfrage per E-Mail
                         </a>
-                        <a href="tel:+492211234560" class="inline-flex items-center rounded-full border border-white/50 px-6 py-3 text-sm font-semibold text-white transition hover:border-white">
+                        <a href="tel:+4915227752737" class="inline-flex items-center rounded-full border border-white/50 px-6 py-3 text-sm font-semibold text-white transition hover:border-white">
                             Direkt anrufen
                         </a>
                     </div>
@@ -260,11 +260,11 @@
                     <p class="text-xs font-semibold uppercase tracking-[0.2em] text-white/75">Kontaktdaten</p>
                     <address class="mt-4 not-italic text-sm leading-relaxed text-white/85">
                         UR Baubegleitung<br>
-                        Musterstrasse 18<br>
-                        50667 K&ouml;ln
+                        Lynesch 1<br>
+                        26826 Weener
                     </address>
                     <div class="mt-4 text-sm text-white/85">
-                        <p>Tel. <a href="tel:+492211234560" class="font-semibold text-white">+49 221 123 456-0</a></p>
+                        <p>Tel. <a href="tel:+4915227752737" class="font-semibold text-white">01522 7752737</a></p>
                         <p>E-Mail <a href="mailto:info@ur-baubegleitung.de" class="font-semibold text-white">info@ur-baubegleitung.de</a></p>
                     </div>
                     <div class="mt-6 text-sm text-white/75">
