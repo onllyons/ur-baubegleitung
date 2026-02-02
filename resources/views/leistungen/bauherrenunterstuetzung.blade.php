@@ -150,7 +150,7 @@
                     <div class="space-y-4">
                         <h3 class="text-lg font-semibold text-slate-900">Bausubstanzuntersuchung</h3>
                         <p>
-                            Bei jeglicher Planung von Sanierungsarbeiten und auch beim Kauf einer Immobilie in Berlin ist eine
+                            Bei jeglicher Planung von Sanierungsarbeiten und auch beim Kauf einer Immobilie in Berlin weglassen ist eine
                             ausf&uuml;hrliche Erforschung der aktuellen Substanz unabdingbar, andernfalls k&ouml;nnen Risiken,
                             die typischerweise alten Geb&auml;uden eigen sind, unangenehme Folgen haben. Die genaue Analyse des
                             Ist-Zustandes kann Ihnen Qualit&auml;ten und M&auml;ngel der Immobilie aufzeigen.
