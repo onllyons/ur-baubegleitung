@@ -12,19 +12,20 @@
                 <div>
                     <h2 class="text-lg font-semibold text-slate-900">Angaben gemaess &sect; 5 TMG</h2>
                     <p class="mt-2">
-                        UR Baubegleitung<br>
-                        Musterstrasse 18<br>
-                        50667 K&ouml;ln
+                        Uwe Reemtsema Baubegleitung<br>
+                        Lynesch 1<br>
+                        26826 Weener
                     </p>
                 </div>
                 <div>
                     <h2 class="text-lg font-semibold text-slate-900">Vertreten durch</h2>
-                    <p class="mt-2">Dipl.-Ing. Martin Schaefer</p>
+                    <p class="mt-2">Uwe Reemtsema</p>
+                    <p class="mt-1 text-sm text-slate-700">Gepr&uuml;fter Bausachverst&auml;ndiger und Gutachter f&uuml;r Sch&auml;den an Geb&auml;uden und Wertermittlung</p>
                 </div>
                 <div>
                     <h2 class="text-lg font-semibold text-slate-900">Kontakt</h2>
                     <p class="mt-2">
-                        Telefon: +49 221 123 456-0<br>
+                        Telefon: 01522 77 52 737<br>
                         E-Mail: info@ur-baubegleitung.de
                     </p>
                 </div>

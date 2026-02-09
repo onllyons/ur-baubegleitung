@@ -9,6 +9,7 @@ Route::view('/leistungen/bauschaeden', 'leistungen.bauschaeden');
 Route::view('/leistungen/bauherrenunterstuetzung', 'leistungen.bauherrenunterstuetzung');
 Route::view('/leistungen/immobilien-an-verkauf', 'leistungen.immobilien-an-verkauf');
 Route::view('/gutachten', 'gutachten');
+Route::view('/holzrahmenbau', 'holzrahmenbau');
 Route::view('/kontakt', 'kontakt');
 Route::view('/datenschutz', 'datenschutz');
 Route::view('/impressum', 'impressum');

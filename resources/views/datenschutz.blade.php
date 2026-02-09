@@ -17,8 +17,8 @@
                 <div>
                     <h2 class="text-lg font-semibold text-slate-900">Verantwortliche Stelle</h2>
                     <p class="mt-2">
-                        UR Baubegleitung, Musterstrasse 18, 50667 K&ouml;ln,
-                        E-Mail: info@ur-baubegleitung.de, Tel. +49 221 123 456-0
+                        Uwe Reemtsema Baubegleitung, Lynesch 1, 26826 Weener,
+                        E-Mail: info@ur-baubegleitung.de, Tel. 01522 77 52 737
                     </p>
                 </div>
                 <div>

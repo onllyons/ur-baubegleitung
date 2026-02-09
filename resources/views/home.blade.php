@@ -113,20 +113,16 @@
             <div class="grid gap-8 lg:grid-cols-[1.2fr,1fr]">
                 <div class="rounded-2xl bg-white p-8 shadow-sm ring-1 ring-slate-200">
                     <p class="text-xs font-semibold uppercase tracking-[0.2em] text-slate-500">Profil</p>
-                    <h2 class="mt-3 text-2xl font-semibold text-slate-900">Dipl.-Ing. Martin Schaefer</h2>
-                    <p class="mt-2 text-sm text-slate-600">Baubegleitung</p>
+                    <h2 class="mt-3 text-2xl font-semibold text-slate-900">Uwe Reemtsema</h2>
+                    <p class="mt-2 text-sm text-slate-600">Gepr&uuml;fter Bausachverst&auml;ndiger f&uuml;r Sch&auml;den an Geb&auml;uden &amp; Wertermittlung</p>
                     <ul class="mt-6 space-y-3 text-sm text-slate-700">
                         <li class="flex items-start gap-3">
                             <span class="mt-1 h-2 w-2 rounded-full bg-slate-400"></span>
-                            &Ouml;ffentlich bestellter und vereidigter Sachverst&auml;ndiger f&uuml;r Bausch&auml;den
+                            Mitglied Deutsche Sachverst&auml;ndigen Gesellschaft
                         </li>
                         <li class="flex items-start gap-3">
                             <span class="mt-1 h-2 w-2 rounded-full bg-slate-400"></span>
-                            Mitglied der Ingenieurkammer NRW, Fachgebiet Hochbau
-                        </li>
-                        <li class="flex items-start gap-3">
-                            <span class="mt-1 h-2 w-2 rounded-full bg-slate-400"></span>
-                            Zertifizierter Energieberater (BAFA) und qualifizierter Bauleiter
+                            Gepr&uuml;ft nach DESAG
                         </li>
                     </ul>
                 </div>
@@ -134,7 +130,7 @@
                     <div class="rounded-2xl bg-[#5d7f95] p-6 text-white shadow-sm">
                         <p class="text-xs font-semibold uppercase tracking-[0.2em] text-white/80">Erfahrung</p>
                         <p class="mt-3 text-3xl font-semibold">20+ Jahre</p>
-                        <p class="mt-2 text-sm text-white/80">Planung, Bauleitung und Gutachten im Bestand und Neubau.</p>
+                        <p class="mt-2 text-sm text-white/80">Erfahrung im Bauwesen</p>
                     </div>
                 </div>
             </div>

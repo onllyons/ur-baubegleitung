@@ -10,7 +10,7 @@
             </a>
         </div>
     </div>
-    <nav class="bg-[#5d7f95] text-white" aria-label="Hauptnavigation">
+    <nav class="bg-[#393939] text-white" aria-label="Hauptnavigation">
         <div class="mx-auto max-w-6xl px-6">
             <div class="flex flex-col divide-y divide-white/20 text-center text-xs font-semibold uppercase tracking-[0.18em] sm:text-sm md:flex-row md:divide-y-0 md:divide-x md:divide-white/25">
                 <div class="flex-1">
@@ -21,7 +21,7 @@
                 </div>
                 <div class="relative flex-1 group">
                     <a href="{{ url('/leistungen') }}" class="flex items-center justify-center px-4 py-3 transition hover:bg-white/10">LEISTUNGEN</a>
-                    <div class="absolute left-1/2 top-full mt-0 w-[220px] -translate-x-1/2 overflow-hidden rounded-none bg-[#5d7f95] py-0 text-white shadow-lg opacity-0 pointer-events-none transition duration-200 group-hover:opacity-100 group-hover:pointer-events-auto group-focus-within:opacity-100 group-focus-within:pointer-events-auto">
+                    <div class="absolute left-1/2 top-full mt-0 w-[220px] -translate-x-1/2 overflow-hidden rounded-none bg-[#393939] py-0 text-white shadow-lg opacity-0 pointer-events-none transition duration-200 group-hover:opacity-100 group-hover:pointer-events-auto group-focus-within:opacity-100 group-focus-within:pointer-events-auto">
                         <a href="{{ url('/leistungen/bauschaeden') }}" class="block border-b border-white/20 px-6 py-4 text-sm font-semibold uppercase tracking-[0.16em] text-white transition hover:bg-white/10 whitespace-normal leading-snug break-words">
                             Hilfe bei Bausch&auml;den
                         </a>
@@ -35,6 +35,9 @@
                 </div>
                 <div class="flex-1">
                     <a href="{{ url('/gutachten') }}" class="flex items-center justify-center px-4 py-3 transition hover:bg-white/10">GUTACHTEN</a>
+                </div>
+                <div class="flex-1">
+                    <a href="{{ url('/holzrahmenbau') }}" class="flex items-center justify-center px-4 py-3 transition hover:bg-white/10">HOLZRAHMENBAU</a>
                 </div>
                 <div class="flex-1">
                     <a href="{{ url('/kontakt') }}" class="flex items-center justify-center px-4 py-3 transition hover:bg-white/10">KONTAKT</a>
