@@ -77,7 +77,7 @@
                 <div class="relative overflow-hidden rounded-2xl border border-slate-200 bg-gradient-to-br from-white via-slate-50 to-slate-100 px-6 py-10 text-center shadow-md sm:px-12">
                     <span class="absolute inset-x-0 top-0 h-1 bg-[#5d7f95]"></span>
                     <h1 class="mt-4 text-2xl font-semibold text-slate-900 sm:text-3xl lg:text-4xl">
-                        Ingenieurb&uuml;ro, gepr&uuml;fter Bausachverst&auml;ndiger und Gutachter
+                        Gepr&uuml;fter Bausachverst&auml;ndiger und Gutachter
                     </h1>
                     <p class="mt-4 text-sm font-medium uppercase tracking-[0.22em] text-[#5d7f95]">
                         Unabhaengig. Neutral. Nachvollziehbar dokumentiert.
