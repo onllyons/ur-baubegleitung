@@ -12,6 +12,66 @@
         </div>
     </section>
 
+    <section class="">
+        <div class="mx-auto max-w-6xl px-6 pb-12">
+            <div class="grid gap-10 rounded-2xl border border-slate-200 bg-white p-8 shadow-sm lg:grid-cols-[1.1fr,0.9fr]">
+                <div class="space-y-6 text-sm leading-relaxed text-slate-700 sm:text-base">
+                    <div class="space-y-3">
+                        <h2 class="text-2xl font-semibold text-slate-900">Holzrahmenbau &ndash; modern, effizient, nachhaltig</h2>
+                        <p>
+                            Der Holzrahmenbau ist eine der fortschrittlichsten Bauweisen unserer Zeit. Tragende Holzst&auml;nder bilden
+                            ein stabiles Ger&uuml;st, das mit hochwertigen D&auml;mmstoffen und Plattenwerkstoffen erg&auml;nzt wird.
+                            So entstehen energieeffiziente, langlebige und flexible Geb&auml;ude &ndash; vom Einfamilienhaus bis zum
+                            mehrgeschossigen Wohnbau.
+                        </p>
+                    </div>
+                    <div class="space-y-3">
+                        <h3 class="text-lg font-semibold text-slate-900">Die Vorteile auf einen Blick</h3>
+                        <ul class="space-y-2">
+                            <li class="flex items-start gap-3">
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                Hohe Energieeffizienz: Sehr gute D&auml;mmwerte, niedrige Heizkosten
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                Kurze Bauzeit: Vorfertigung erm&ouml;glicht schnelle und pr&auml;zise Umsetzung
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                Nachhaltigkeit: Holz als nachwachsender, CO&#8322;-speichernder Baustoff
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                Flexibilit&auml;t: Leichte Anpassung von Grundrissen und sp&auml;teren Umbauten
+                            </li>
+                            <li class="flex items-start gap-3">
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                Angenehmes Raumklima: Nat&uuml;rlich, wohngesund und behaglich
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="space-y-6 text-sm leading-relaxed text-slate-700 sm:text-base">
+                    <div class="space-y-3">
+                        <h3 class="text-lg font-semibold text-slate-900">Meine Spezialisierung</h3>
+                        <p>
+                            Ich habe mich bewusst auf den Holzrahmenbau spezialisiert. Durch fundierte Erfahrung, technische
+                            Detailkenntnis und unabh&auml;ngige Bewertung begleite ich Bauherren bei Planung, Ausf&uuml;hrung
+                            und Qualit&auml;tssicherung. Mein Fokus liegt darauf, typische Fehler zu vermeiden, Bauqualit&auml;t
+                            objektiv zu pr&uuml;fen und sicherzustellen, dass die Vorteile des Holzrahmenbaus voll ausgesch&ouml;pft werden.
+                        </p>
+                    </div>
+                    <div class="rounded-xl border border-slate-200 bg-slate-50 p-5">
+                        <h4 class="text-sm font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Kurz gesagt</h4>
+                        <p class="mt-3 text-base font-semibold text-slate-900">
+                            Holzrahmenbau ist effizient, nachhaltig und zukunftssicher &ndash; und genau darauf bin ich spezialisiert.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section>
         <div class="mx-auto max-w-6xl px-6 pb-16">
             <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">

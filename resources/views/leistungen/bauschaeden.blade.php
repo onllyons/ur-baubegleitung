@@ -14,7 +14,7 @@
 
     <section class="bg-white">
         <img
-            src="https://static.wixstatic.com/media/46aad9_f3fda90f20b24d81be7612928be1d3a6~mv2.jpg/v1/fill/w_2520,h_908,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Bild-Bauschaden.jpg"
+            src="{{ asset('images/bauschaeden.jpg') }}"
             alt="Bauschaden"
             class="h-[360px] w-full object-cover sm:h-[480px] lg:h-[560px]"
             loading="lazy"

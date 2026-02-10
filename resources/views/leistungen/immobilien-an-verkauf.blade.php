@@ -14,7 +14,7 @@
 
     <section class="bg-white">
         <img
-            src="https://static.wixstatic.com/media/46aad9_c60352d02aa64fb6a87eab25f77995c0~mv2.jpg/v1/fill/w_1850,h_870,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Bild-Immobilien.jpg"
+            src="{{ asset('images/immobilien-an-verkauf.jpg') }}"
             alt="Immobilien An- und Verkauf"
             class="h-[360px] w-full object-cover sm:h-[480px] lg:h-[560px]"
             loading="lazy"

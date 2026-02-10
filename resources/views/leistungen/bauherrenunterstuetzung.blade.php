@@ -14,7 +14,7 @@
 
     <section class="bg-white">
         <img
-            src="https://static.wixstatic.com/media/46aad9_ab4415c5119c4c45a43f41a1405996c0~mv2.jpg/v1/fill/w_1850,h_870,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Bild-Bauherren.jpg"
+            src="{{ asset('images/bauherrenunterstuetzung.jpg') }}"
             alt="Bauherrenunterstuetzung"
             class="h-[360px] w-full object-cover sm:h-[480px] lg:h-[560px]"
             loading="lazy"
