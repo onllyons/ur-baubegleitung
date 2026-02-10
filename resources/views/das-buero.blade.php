@@ -6,9 +6,9 @@
 @section('content')
     <section class="bg-slate-50">
         <div class="mx-auto max-w-6xl px-6 py-12">
-            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Das B&uuml;ro</p>
+            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#505152]">Das B&uuml;ro</p>
             <h1 class="mt-3 text-3xl font-semibold text-slate-900 sm:text-4xl">Das B&uuml;ro</h1>
-            <div class="mt-4 h-1 w-16 rounded-full bg-[#5d7f95]"></div>
+            <div class="mt-4 h-1 w-16 rounded-full bg-[#505152]"></div>
         </div>
     </section>
 
@@ -45,23 +45,23 @@
                     </div>
                     <ul class="space-y-3 text-sm text-slate-700">
                         <li class="flex items-start gap-3">
-                            <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                            <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                             Gepr&uuml;fter Sachverst&auml;ndiger f&uuml;r Sch&auml;den am Bau nach DESAG
                         </li>
                         <li class="flex items-start gap-3">
-                            <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                            <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                             Immobilienbewerter nach Bewertungsgesetz
                         </li>
                         <li class="flex items-start gap-3">
-                            <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                            <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                             Gepr&uuml;fter Sachverst&auml;ndiger f&uuml;r Sch&auml;den an Geb&auml;uden
                         </li>
                         <li class="flex items-start gap-3">
-                            <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                            <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                             Gutachter f&uuml;r Wertermittlung
                         </li>
                         <li class="flex items-start gap-3">
-                            <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                            <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                             DESAG Zertifiziert und gepr&uuml;ft
                         </li>
                     </ul>

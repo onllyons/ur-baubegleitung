@@ -6,9 +6,9 @@
 @section('content')
     <section class="bg-slate-50">
         <div class="mx-auto max-w-6xl px-6 py-12">
-            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Leistungen</p>
+            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#505152]">Leistungen</p>
             <h1 class="mt-3 text-3xl font-semibold text-slate-900 sm:text-4xl">Hilfe bei Bausch&auml;den</h1>
-            <div class="mt-4 h-1 w-16 rounded-full bg-[#5d7f95]"></div>
+            <div class="mt-4 h-1 w-16 rounded-full bg-[#505152]"></div>
         </div>
     </section>
 
@@ -33,22 +33,22 @@
                         </p>
                     </div>
                     <div class="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-                        <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Uebersicht</p>
+                        <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#505152]">Uebersicht</p>
                         <ul class="mt-4 space-y-3 text-sm text-slate-700">
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Ursachenanalyse
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Erste Hilfe bei akuten Sch&auml;den
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Sanierungskonzepte und Umsetzungsbegleitung
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Rechtssichere Dokumentation / Beweissicherung
                             </li>
                         </ul>

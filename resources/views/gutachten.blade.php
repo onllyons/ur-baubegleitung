@@ -6,9 +6,9 @@
 @section('content')
     <section class="bg-slate-50">
         <div class="mx-auto max-w-6xl px-6 py-12">
-            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Gutachten</p>
+            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#505152]">Gutachten</p>
             <h1 class="mt-3 text-3xl font-semibold text-slate-900 sm:text-4xl">Gutachten</h1>
-            <div class="mt-4 h-1 w-16 rounded-full bg-[#5d7f95]"></div>
+            <div class="mt-4 h-1 w-16 rounded-full bg-[#505152]"></div>
         </div>
     </section>
 
@@ -34,22 +34,22 @@
                         </p>
                     </div>
                     <div class="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-                        <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Gutachtenarten</p>
+                        <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#505152]">Gutachtenarten</p>
                         <ul class="mt-4 space-y-3 text-sm text-slate-700">
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Schadensgutachten
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Beweissicherungsgutachten
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Immobilienbewertung
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Schriftliche sachverst&auml;ndige Stellungnahmen
                             </li>
                         </ul>
@@ -101,15 +101,15 @@
                         <h3 class="text-lg font-semibold text-slate-900">Weitere Gutachtenarten</h3>
                         <ul class="mt-4 space-y-2 text-sm text-slate-700">
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Baubegleitende Gutachten zur Qualit&auml;tskontrolle w&auml;hrend der Bauphase
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Abnahmegutachten zur Unterst&uuml;tzung bei der Bauabnahme
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Sanierungskonzepte bei komplexen Sch&auml;den wie Feuchtigkeit, Schimmel oder statischen Problemen
                             </li>
                         </ul>

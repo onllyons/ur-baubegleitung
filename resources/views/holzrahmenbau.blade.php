@@ -6,9 +6,9 @@
 @section('content')
     <section class="bg-slate-50">
         <div class="mx-auto max-w-6xl px-6 py-12">
-            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Holzrahmenbau</p>
+            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#505152]">Holzrahmenbau</p>
             <h1 class="mt-3 text-3xl font-semibold text-slate-900 sm:text-4xl">Holzrahmenbau</h1>
-            <div class="mt-4 h-1 w-16 rounded-full bg-[#5d7f95]"></div>
+            <div class="mt-4 h-1 w-16 rounded-full bg-[#505152]"></div>
         </div>
     </section>
 
@@ -29,23 +29,23 @@
                         <h3 class="text-lg font-semibold text-slate-900">Die Vorteile auf einen Blick</h3>
                         <ul class="space-y-2">
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Hohe Energieeffizienz: Sehr gute D&auml;mmwerte, niedrige Heizkosten
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Kurze Bauzeit: Vorfertigung erm&ouml;glicht schnelle und pr&auml;zise Umsetzung
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Nachhaltigkeit: Holz als nachwachsender, CO&#8322;-speichernder Baustoff
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Flexibilit&auml;t: Leichte Anpassung von Grundrissen und sp&auml;teren Umbauten
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Angenehmes Raumklima: Nat&uuml;rlich, wohngesund und behaglich
                             </li>
                         </ul>
@@ -62,7 +62,7 @@
                         </p>
                     </div>
                     <div class="rounded-xl border border-slate-200 bg-slate-50 p-5">
-                        <h4 class="text-sm font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Kurz gesagt</h4>
+                        <h4 class="text-sm font-semibold uppercase tracking-[0.2em] text-[#505152]">Kurz gesagt</h4>
                         <p class="mt-3 text-base font-semibold text-slate-900">
                             Holzrahmenbau ist effizient, nachhaltig und zukunftssicher &ndash; und genau darauf bin ich spezialisiert.
                         </p>

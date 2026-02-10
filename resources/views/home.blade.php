@@ -75,11 +75,11 @@
         <div class="bg-slate-50">
             <div class="mx-auto max-w-6xl px-6 py-10">
                 <div class="relative overflow-hidden rounded-2xl border border-slate-200 bg-gradient-to-br from-white via-slate-50 to-slate-100 px-6 py-10 text-center shadow-md sm:px-12">
-                    <span class="absolute inset-x-0 top-0 h-1 bg-[#5d7f95]"></span>
+                    <span class="absolute inset-x-0 top-0 h-1 bg-[#505152]"></span>
                     <h1 class="mt-4 text-2xl font-semibold text-slate-900 sm:text-3xl lg:text-4xl">
                         Gepr&uuml;fter Bausachverst&auml;ndiger und Gutachter
                     </h1>
-                    <p class="mt-4 text-sm font-medium uppercase tracking-[0.22em] text-[#5d7f95]">
+                    <p class="mt-4 text-sm font-medium uppercase tracking-[0.22em] text-[#505152]">
                         Unabhaengig. Neutral. Nachvollziehbar dokumentiert.
                     </p>
                 </div>
@@ -127,7 +127,7 @@
                     </ul>
                 </div>
                 <div class="grid gap-6">
-                    <div class="rounded-2xl bg-[#5d7f95] p-6 text-white shadow-sm">
+                    <div class="rounded-2xl bg-[#505152] p-6 text-white shadow-sm">
                         <p class="text-xs font-semibold uppercase tracking-[0.2em] text-white/80">Erfahrung</p>
                         <p class="mt-3 text-3xl font-semibold">20+ Jahre</p>
                         <p class="mt-2 text-sm text-white/80">Erfahrung im Bauwesen</p>
@@ -234,7 +234,7 @@
         </div>
     </section>
 
-    <section id="kontakt" class="scroll-mt-24 bg-[#567488] py-16 text-white">
+    <section id="kontakt" class="scroll-mt-24 bg-[#2b2b2b] py-16 text-white">
         <div class="mx-auto max-w-6xl px-6">
             <div class="grid gap-10 lg:grid-cols-2">
                 <div>
@@ -244,7 +244,7 @@
                         Teilen Sie uns Ihr Anliegen mit. Wir melden uns kurzfristig mit einer klaren Einschaetzung und einem Vorschlag fuer das weitere Vorgehen.
                     </p>
                     <div class="mt-6 flex flex-wrap gap-4">
-                        <a href="mailto:info@ur-baubegleitung.de" class="inline-flex items-center rounded-full bg-white px-6 py-3 text-sm font-semibold text-[#5d7f95] shadow-sm transition hover:bg-slate-100">
+                        <a href="mailto:info@ur-baubegleitung.de" class="inline-flex items-center rounded-full bg-white px-6 py-3 text-sm font-semibold text-[#505152] shadow-sm transition hover:bg-slate-100">
                             Anfrage per E-Mail
                         </a>
                         <a href="tel:+4915227752737" class="inline-flex items-center rounded-full border border-white/50 px-6 py-3 text-sm font-semibold text-white transition hover:border-white">

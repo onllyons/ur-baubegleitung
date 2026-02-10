@@ -6,9 +6,9 @@
 @section('content')
     <section class="bg-slate-50">
         <div class="mx-auto max-w-6xl px-6 py-12">
-            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Leistungen</p>
+            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#505152]">Leistungen</p>
             <h1 class="mt-3 text-3xl font-semibold text-slate-900 sm:text-4xl">Immobilien An- &amp; Verkauf</h1>
-            <div class="mt-4 h-1 w-16 rounded-full bg-[#5d7f95]"></div>
+            <div class="mt-4 h-1 w-16 rounded-full bg-[#505152]"></div>
         </div>
     </section>
 
@@ -33,26 +33,26 @@
                         </p>
                     </div>
                     <div class="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-                        <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Meine Leistungen</p>
+                        <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#505152]">Meine Leistungen</p>
                         <ul class="mt-4 space-y-3 text-sm text-slate-700">
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Objektbesichtigung und Dokumentation des baulichen Zustands
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Einsch&auml;tzung von vorhandenen M&auml;ngeln und Sanierungsbedarf
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Neutrale Wertermittlung und Pr&uuml;fung der Angemessenheit des Kaufpreises nach Bewertungsgesetz
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Erstellung klarer Entscheidungsgrundlagen f&uuml;r K&auml;ufer und Verk&auml;ufer
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Beratung zu Modernisierungs- und Instandhaltungskosten
                             </li>
                         </ul>

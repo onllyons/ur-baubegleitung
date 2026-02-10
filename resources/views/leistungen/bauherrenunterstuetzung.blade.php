@@ -6,9 +6,9 @@
 @section('content')
     <section class="bg-slate-50">
         <div class="mx-auto max-w-6xl px-6 py-12">
-            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Leistungen</p>
+            <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#505152]">Leistungen</p>
             <h1 class="mt-3 text-3xl font-semibold text-slate-900 sm:text-4xl">Bauherrenunterst&uuml;tzung</h1>
-            <div class="mt-4 h-1 w-16 rounded-full bg-[#5d7f95]"></div>
+            <div class="mt-4 h-1 w-16 rounded-full bg-[#505152]"></div>
         </div>
     </section>
 
@@ -34,18 +34,18 @@
                         </p>
                     </div>
                     <div class="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-                        <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#5d7f95]">Leistungsbild</p>
+                        <p class="text-xs font-semibold uppercase tracking-[0.2em] text-[#505152]">Leistungsbild</p>
                         <ul class="mt-4 space-y-3 text-sm text-slate-700">
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Pr&uuml;fung von Planung, Projektleitung und ausf&uuml;hrenden Gewerken
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Transparente Kommunikation von G&uuml;te, Kosten&auml;nderungen und Rechnungen
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Unabh&auml;ngige Entscheidungsgrundlagen und Qualit&auml;tskontrolle
                             </li>
                         </ul>
@@ -80,15 +80,15 @@
                         <p class="mt-4 font-semibold text-slate-900">Ich &uuml;bernehme f&uuml;r Sie</p>
                         <ul class="mt-3 space-y-2 text-sm text-slate-700">
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Teilabnahmen &ndash; Pr&uuml;fung einzelner Gewerke oder Bauabschnitte (z. B. Rohbau, Dachstuhl, Elektroinstallation)
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Zwischenabnahmen &ndash; regelm&auml;&szlig;ige Kontrollen zwischen den Bauphasen
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Endabnahmen &ndash; Sicherstellung, dass die vereinbarten Leistungen m&auml;ngelfrei und nach Stand der Technik umgesetzt wurden
                             </li>
                         </ul>
@@ -125,23 +125,23 @@
                         <h3 class="text-lg font-semibold text-slate-900">Sinnvolle Kontrollen</h3>
                         <ul class="mt-4 space-y-2 text-sm text-slate-700">
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Bei Erstellung des Kellers &ndash; Bauwerksabdichtung, D&auml;mmung
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Abnahme des Rohbaus &ndash; &Uuml;berg&auml;nge von Bauteil&ouml;ffnungen, &Uuml;berbindema&szlig;e, Bauteilanschl&uuml;sse, Dachstuhl etc.
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Nach Einbau der Fenster
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 D&auml;mm- und Abdichtungsarbeiten &ndash; Dach und Fassade
                             </li>
                             <li class="flex items-start gap-3">
-                                <span class="mt-2 h-2 w-2 rounded-full bg-[#5d7f95]"></span>
+                                <span class="mt-2 h-2 w-2 rounded-full bg-[#505152]"></span>
                                 Nach Verlegung der Hausinstallationen etc.
                             </li>
                         </ul>
