@@ -22,7 +22,7 @@ class ContactController extends Controller
 
         $message = ContactMessage::create($data);
 
-        Mail::to('condratiuc.sergiu@gmail.com')->send(new ContactMessageMail($message));
+        Mail::to('info@ur-baubegleitung.de')->send(new ContactMessageMail($message));
 
         return back()->with('success', 'Vielen Dank! Ihre Nachricht wurde gesendet.');
     }
